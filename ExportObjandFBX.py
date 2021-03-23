@@ -50,7 +50,7 @@ if not "Desktop" in os.listdir(user_home):
 
 class ExportObject(bpy.types.Operator):
     bl_idname = "object.export_object"
-    bl_label = "ExportObj/FBX"
+    bl_label = "Export Obj/FBX"
     bl_description = "Export selected object as Obj and FBX"
     bl_options = {'REGISTER', 'UNDO'}
 
