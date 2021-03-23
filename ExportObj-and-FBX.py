@@ -40,8 +40,8 @@ if type_os == "Windows":
 else:
     user_home = os.path.expanduser("~")
   
-copypaste_dir = normpath(join("/Desktop/exportedObjFBX"))
-dirpath = str(user_home) + copypaste_dir + "/"
+export_dir = normpath(join("/Desktop/exportedObjFBX"))
+dirpath = str(user_home) + export_dir + "/"
 
 if not "Desktop" in os.listdir(user_home):  
     os.makedirs(dirpath)
