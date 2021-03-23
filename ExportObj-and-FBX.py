@@ -153,7 +153,7 @@ def register():
         
 def unregister():
     bpy.utils.unregister_class(ExportObject)
-    bpy.types.TOPBAR_HT_upper_bar.append(export_menu)
+    bpy.types.TOPBAR_HT_upper_bar.remove(export_menu)
     
 if __name__ == "__main__":
     register()
