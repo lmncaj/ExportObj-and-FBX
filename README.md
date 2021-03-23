@@ -1,6 +1,6 @@
 # ExportObj-and-FBX
 
-選択されたオブジェクトをObj形式とFBX形式に一挙にエクスポートするアドオンです。
+選択されたオブジェクトをObj形式とFBX形式で一挙にエクスポートするアドオンです。
 
 Blender 2.92で動作します。
 > Export selected object as Obj and FBX at once.
