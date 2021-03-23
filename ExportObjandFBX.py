@@ -18,7 +18,7 @@
 bl_info = {
     "name": "ExportObjandFBX",
     "author": "FON(フォーン)",
-    "version": (0, 0, 1),
+    "version": (1, 0),
     "blender": (2, 92, 0),
     "location": "In the info header",
     "description": "Export selected Object as Obj and FBX",
