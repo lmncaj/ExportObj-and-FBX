@@ -1,2 +1,3 @@
 # ExportObj-and-FBX
-Addon which Export as Obj and FBX for Blender
+Export selected object as Obj and FBX at once
+ExportObj-and-FBX works with Blender2.80 and up.
