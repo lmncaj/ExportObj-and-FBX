@@ -14,7 +14,7 @@ Blender 2.92で動作します。
 エクスポートしたいオブジェクトを選択し、トップバーにある"Export Obj/FBX"ボタンをクリックするとエクスポートされます。
 
 エクスポートされたオブジェクトは、デスクトップに生成された"ExportedObjFBX"フォルダーに格納されます。
-> Select object what you want to export, then click "Export Obj/FBX" button on top bar to export.
+> Select object whatever you like, then click "Export Obj/FBX" button on top bar to export.
 > Exported object will be stored in the "ExportedObjFBX" folder which will be generated in the desktop.
 
 
