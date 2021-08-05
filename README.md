@@ -1,5 +1,4 @@
 # ExportObj-and-FBX
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/fon-22/ExportObj-and-FBX/total"><br>
 
 選択したオブジェクトをObjとFBX形式で、ワンクリックで一挙にエクスポートできるアドオンです。
 
